@@ -1,2 +1,31 @@
-# Food-Delivery-Data-Analysis
-A Python data analysis and machine learning project that cleans, analyses, visualizes and predicts outcomes from 50,000 food-delivery orders.  Department of Artificial Intelligence &amp; Machine Learning, Aditya University.
+# Food Delivery Data Analysis
+
+A Python data analysis and machine learning project that cleans, analyses, visualizes and predicts on 50,000 food-delivery orders.
+Department of Artificial Intelligence & Machine Learning, Aditya University.
+
+## Team Members
+- K. Jaswanthi
+- K. Pravallika
+- Ch. Siri Varshini
+- J. Roshini Sai Deekshitha
+
+## Repository Contents
+- **Source_Code/** : Python code (.py, .ipynb) and dataset (food_delivery_dataset_50000.csv)
+- **Project_Implementation/** : Output charts and accuracy results
+- **Project_PPT/** : Review 1, Review 2 and Review 3 presentations
+- **Demo Video** : https://drive.google.com/PASTE-YOUR-LINK-HERE
+
+## Project Steps
+1. Load dataset
+2. Explore data
+3. Clean data (missing values and duplicates)
+4. Analysis
+5. Visualization
+6. Preprocessing
+7. Prediction models (Delivery Time and Order Status)
+8. Accuracy summary
+
+## How to Run
+1. Open the .ipynb file in Google Colab.
+2. Upload food_delivery_dataset_50000.csv when asked.
+3. Run all cells.
