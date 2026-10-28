@@ -12,8 +12,8 @@ Department of Artificial Intelligence & Machine Learning, Aditya University.
 ## Repository Contents
 - **Source_Code/** : Python code (.py, .ipynb) and dataset (food_delivery_dataset_50000.csv)
 - **Project_Implementation/** : Output charts and accuracy results
-- **Project_PPT/** : Review 1, Review 2 and Review 3 presentations
-- **Demo Video** : https://drive.google.com/PASTE-YOUR-LINK-HERE
+- **Project_PPT/** : Review 1, Review 2 and Review 3 presentations (available in the main folder)
+- **Demo Video** :  Link will be added soon
 
 ## Project Steps
 1. Load dataset
