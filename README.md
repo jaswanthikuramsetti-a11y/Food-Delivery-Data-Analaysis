@@ -10,9 +10,9 @@ Department of Artificial Intelligence & Machine Learning, Aditya University.
 - J. Roshini Sai Deekshitha
 
 ## Repository Contents
-- **Source_Code/** : Python code (.py, .ipynb) and dataset (food_delivery_dataset_50000.csv)
+- **Source_Code/** : Python code (review3_models.py) and dataset (food_delivery_dataset_50000.csv)
 - **Project_Implementation/** : Output charts and accuracy results
-- **Project_PPT/** : Review 1, Review 2 and Review 3 presentations (available in the main folder)
+- - **PPT Files** : Review 1, Review 2 and Review 3 presentations (available in the main folder)
 - **Demo Video** :  Link will be added soon
 
 ## Project Steps
@@ -26,6 +26,4 @@ Department of Artificial Intelligence & Machine Learning, Aditya University.
 8. Accuracy summary
 
 ## How to Run
-1. Open the .ipynb file in Google Colab.
-2. Upload food_delivery_dataset_50000.csv when asked.
-3. Run all cells.
+ Open review3_models.py in Google Colab (copy the code into a cell) or run it locally.
