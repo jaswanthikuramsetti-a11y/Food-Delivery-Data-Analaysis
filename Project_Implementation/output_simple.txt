@@ -1,0 +1,35 @@
+Original Dataset:
+    Order ID  Customer Age  ... Payment Method Order Status
+0  ORD133554            43  ...           Cash    Delivered
+1  ORD109428            51  ...           Card    Delivered
+2  ORD100200            46  ...            UPI    Delivered
+3  ORD112448            30  ...           Cash    Delivered
+4  ORD139490            39  ...           Cash    Delivered
+
+[5 rows x 11 columns]
+
+Dataset Shape:
+(50000, 11)
+
+Missing Values:
+Order ID           0
+Customer Age       0
+City               0
+Cuisine            0
+Restaurant         0
+Order Value        0
+Distance           0
+Delivery Time      0
+Customer Rating    0
+Payment Method     0
+Order Status       0
+dtype: int64
+
+Duplicate Rows:
+1000
+
+Shape After Cleaning:
+(49000, 11)
+
+Missing Values After Cleaning:
+0
