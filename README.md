@@ -10,8 +10,8 @@ Department of Artificial Intelligence & Machine Learning, Aditya University.
 - J. Roshini Sai Deekshitha
 
 ## Repository Contents
-- **Source_Code/** : Python code (review3_models.py) and dataset (food_delivery_dataset_50000.csv)
-- **Project_Implementation/** : Output charts and accuracy results
+- **Source_Code/** : Python code(food_delivery_simple.py) and dataset (food_delivery_dataset_50000.csv)
+- **Project_Implementation/** : Output bar charts and pie charts
 - - **PPT Files** : Review 1, Review 2 and Review 3 presentations (available in the main folder)
 - **Demo Video** :  Link will be added soon
 
