@@ -13,7 +13,7 @@ Department of Artificial Intelligence & Machine Learning, Aditya University.
 - **Source_Code/** : Python code (review3_models.py) and dataset (food_delivery_dataset_50000.csv)
 - **Project_Implementation/** : Output charts and accuracy results
 - - **PPT Files** : Review 1, Review 2 and Review 3 presentations (available in the main folder)
-- **Demo Video** :  Link will be added soon
+- **Demo Video** : https://drive.google.com/file/d/1B771A4jRAsvOXOCcjKDv0o_46I91hf66/view?usp=sharing
 
 ## Project Steps
 1. Load dataset
