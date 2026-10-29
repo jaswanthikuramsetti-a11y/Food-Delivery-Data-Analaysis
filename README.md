@@ -26,4 +26,4 @@ Department of Artificial Intelligence & Machine Learning, Aditya University.
 8. Accuracy summary
 
 ## How to Run
- Open (food_delivery_simple.py)  in Google Colab (copy the code into a cell) or run it locally.
+ Open  (review3_models.py) in Google Colab (copy the code into a cell) or run it locally.
